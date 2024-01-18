@@ -1,6 +1,4 @@
-## Personal Account
-
-[github.com/jkitajima](github.com/jkitajima)
+[github.com/jkitajima](https://github.com/jkitajima)
 
 <!--
 **joao-kitajima/joao-kitajima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
